@@ -25,6 +25,9 @@
 - [Affordable personal loans Milton: what to check first](https://local-business-guides.github.io/cash-on-your-mobile-milton/affordable-personal-loans-milton/): Affordable personal loans Milton customers can discuss funding needs and repayment questions with Cash On Your Mobile.
 - [Global loan agency services Australia Milton: key questions](https://local-business-guides.github.io/cash-on-your-mobile-milton/global-loan-agency-services-australia-milton/): Global loan agency services Australia Milton enquiries can start with a clear funding purpose and practical questions.
 
+## Newsroom
+- [Cash On Your Mobile Shares New Milton Personal Loan Guide](https://local-business-guides.github.io/cash-on-your-mobile-milton/news/2026-10-27-cash-on-your-mobile-shares-new-milton-personal-loa/): Cash On Your Mobile has published a guide to personal loans in Milton, with a YouTube video and podcast episode on the topic. (2026-10-27)
+
 ## Pages
 - [Personal Loans in Milton, Queensland](https://local-business-guides.github.io/cash-on-your-mobile-milton/): Explore funding options for personal needs or business cash flow with a Milton loan agency. Call +61735541338.
 - [About Cash On Your Mobile in Milton](https://local-business-guides.github.io/cash-on-your-mobile-milton/about/): About Cash On Your Mobile, Milton.
@@ -32,3 +35,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cash-on-your-mobile-milton/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/cash-on-your-mobile-milton/news/rss.xml)
